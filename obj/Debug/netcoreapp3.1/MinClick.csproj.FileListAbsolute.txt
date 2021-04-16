@@ -1,0 +1,15 @@
+C:\Users\wh-ra\source\repos\MinClick\MinClick\bin\Debug\netcoreapp3.1\MinClick.exe
+C:\Users\wh-ra\source\repos\MinClick\MinClick\bin\Debug\netcoreapp3.1\MinClick.deps.json
+C:\Users\wh-ra\source\repos\MinClick\MinClick\bin\Debug\netcoreapp3.1\MinClick.runtimeconfig.json
+C:\Users\wh-ra\source\repos\MinClick\MinClick\bin\Debug\netcoreapp3.1\MinClick.runtimeconfig.dev.json
+C:\Users\wh-ra\source\repos\MinClick\MinClick\bin\Debug\netcoreapp3.1\MinClick.dll
+C:\Users\wh-ra\source\repos\MinClick\MinClick\bin\Debug\netcoreapp3.1\MinClick.pdb
+C:\Users\wh-ra\source\repos\MinClick\MinClick\obj\Debug\netcoreapp3.1\MinClick.Form1.resources
+C:\Users\wh-ra\source\repos\MinClick\MinClick\obj\Debug\netcoreapp3.1\MinClick.csproj.GenerateResource.cache
+C:\Users\wh-ra\source\repos\MinClick\MinClick\obj\Debug\netcoreapp3.1\MinClick.AssemblyInfoInputs.cache
+C:\Users\wh-ra\source\repos\MinClick\MinClick\obj\Debug\netcoreapp3.1\MinClick.AssemblyInfo.cs
+C:\Users\wh-ra\source\repos\MinClick\MinClick\obj\Debug\netcoreapp3.1\MinClick.csproj.CoreCompileInputs.cache
+C:\Users\wh-ra\source\repos\MinClick\MinClick\obj\Debug\netcoreapp3.1\MinClick.dll
+C:\Users\wh-ra\source\repos\MinClick\MinClick\obj\Debug\netcoreapp3.1\MinClick.pdb
+C:\Users\wh-ra\source\repos\MinClick\MinClick\obj\Debug\netcoreapp3.1\MinClick.genruntimeconfig.cache
+C:\Users\wh-ra\source\repos\MinClick\MinClick\bin\Debug\netcoreapp3.1\MinClick.dll.config
