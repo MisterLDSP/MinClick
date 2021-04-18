@@ -11,8 +11,10 @@ namespace MinClick
     {
         public int id { get; set; }
         public string name { get; set; }
-        public DateTime start { get; set; }
-        public DateTime stop { get; set; }
+        public string time { get; set; }
+        public List<int> category { get; set; }
+        public DateTime? start { get; set; }
+        public DateTime? stop { get; set; }
         public Work parent { get; set; }
         public List<Work> childs { get; set; }
     }
