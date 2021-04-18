@@ -9,13 +9,37 @@ namespace MinClick
     /// </summary>
     public class Work
     {
+        /// <summary>
+        /// Идентификатор работы
+        /// </summary>
         public int id { get; set; }
+        /// <summary>
+        /// Название работы
+        /// </summary>
         public string name { get; set; }
+        /// <summary>
+        /// Общее время потраченное на выполнение работы
+        /// </summary>
         public DateTime? time { get; set; }
+        /// <summary>
+        /// Список категорий куда входит работа
+        /// </summary>
         public List<int> category { get; set; }
+        /// <summary>
+        /// Время начала выполнения работы
+        /// </summary>
         public DateTime? start { get; set; }
+        /// <summary>
+        /// Время окончания выполнения работы
+        /// </summary>
         public DateTime? stop { get; set; }
-        public Work parent { get; set; }
-        public List<Work> childs { get; set; }
+        /// <summary>
+        /// ID работы которая является родительской
+        /// </summary>
+        public int parentId { get; set; }
+        /// <summary>
+        /// Список ID дочерних работ если такие есть, по умолчанию:???
+        /// </summary>
+        public List<int> childsId { get; set; }
     }
 }
