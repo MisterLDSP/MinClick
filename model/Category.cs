@@ -9,7 +9,7 @@ namespace MinClick.model
     /// </summary>
     class Category
     {
-        public string categoryId { get; set; }
+        public int categoryId { get; set; }
         public string categoryName { get; set; }
     }
 }

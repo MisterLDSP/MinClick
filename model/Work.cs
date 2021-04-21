@@ -18,9 +18,9 @@ namespace MinClick
         /// </summary>
         public string name { get; set; }
         /// <summary>
-        /// Общее время потраченное на выполнение работы
+        /// Общее время потраченное на выполнение работы в милисекундах
         /// </summary>
-        public DateTime? time { get; set; }
+        public long time { get; set; }
         /// <summary>
         /// Список категорий куда входит работа
         /// </summary>

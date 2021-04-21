@@ -13,3 +13,6 @@ C:\Users\wh-ra\source\repos\MinClick\MinClick\obj\Debug\netcoreapp3.1\MinClick.d
 C:\Users\wh-ra\source\repos\MinClick\MinClick\obj\Debug\netcoreapp3.1\MinClick.pdb
 C:\Users\wh-ra\source\repos\MinClick\MinClick\obj\Debug\netcoreapp3.1\MinClick.genruntimeconfig.cache
 C:\Users\wh-ra\source\repos\MinClick\MinClick\bin\Debug\netcoreapp3.1\MinClick.dll.config
+C:\Users\wh-ra\source\repos\MinClick\MinClick\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\wh-ra\source\repos\MinClick\MinClick\obj\Debug\netcoreapp3.1\MinClick.csprojAssemblyReference.cache
+C:\Users\wh-ra\source\repos\MinClick\MinClick\obj\Debug\netcoreapp3.1\MinClick.csproj.CopyComplete
